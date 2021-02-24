@@ -1,0 +1,25 @@
+{
+  "name": "node-api-restfull-car",
+  "version": "1.0.0",
+  "description": "API de cadastro de novos carros para o clientes consultarem",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanfsousa30/NodeJs.git"
+  },
+  "dependencies": {
+    "body-parser": "1.19.0",
+    "express": "4.17.1",
+    "mongoose": "*",
+    "request": "2.88.2"
+  },
+  "author": "Alan F Sousa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alanfsousa30/NodeJs/issues"
+  },
+  "homepage": "https://github.com/alanfsousa30/NodeJs#readme"
+}
