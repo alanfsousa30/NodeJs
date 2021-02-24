@@ -1,0 +1,1 @@
+mongod --storageEngine=mmapv1  --dbpath "C:\Program Files\MongoDB\Server\3.2\data"
