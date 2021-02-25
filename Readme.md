@@ -1,5 +1,31 @@
-# Desenvolvendo uma API RESTful com Node + Express & MongoDB
+# API RESTful Node + Express + MongoDB
 
+# Escopo
+Criar uma API em Node.JS que retorne dados, resolvendo o problema descrito abaixo.
+
+Fique à vontade para explorar todo o seu conhecimento em Javascript ou qualquer outra ferramenta, além de persistir os dados em um banco de dados MongoDB.
+
+Cenário fictício:
+Jubscleiton está lançando uma nova plataforma de vendas de carro. Nesta plataforma, desejamos realizar o cadastro de novos carros para o clientes consultarem
+
+Requisitos:
+No filtro ser possível pesquisar por cadas atributo do carro e poder ter range de ano e preço
+
+CRUD de Carros:
+Criar um gerenciamento onde seja possível Criar, Listar, Editar e Visualizar um carro.
+Atributos de um Carro são:
+- Marca
+- Model
+- Versão
+- Ano
+- Quilometragem
+- Tipo de Câmbio
+- Preço de venda
+
+Instruções:
+- Deve ser utilizado NodeJS e MongoDb
+- Crie um README com orientações para a instalação.
+- O projeto deve ser entregue através de um ou mais repositórios no github.
 
 
 ## Recursos utilizados no desenvolvimento:
