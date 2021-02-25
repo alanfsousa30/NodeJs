@@ -48,7 +48,7 @@ poder testar cada API criada!
   ROTA                  |     HTTP(Verbo)   |      Descrição        | 
 ------------------------| ----------------- | --------------------- | 
 /api/carros             |       GET         | Selecionar Todos      | 
-/api/carros             |       POST        | Criar Produto         | 
+/api/carros             |       POST        | Criar Carro           | 
 /api/carros/:carro_id   |       GET         | Selecionar Por Id     | 
 /api/carros/:carro_id   |       PUT         | Atualizar Por Id      |    
 /api/carros/:carro_id   |       DELETE      | Excluir Por Id        |
